@@ -136,3 +136,7 @@ crashlytics-build.properties
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# Custom for project
+/Assets/ForestLake/
+/Assets/ForestLake.meta
